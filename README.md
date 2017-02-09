@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/xxczaki/password-encrypt.svg?branch=master)](https://travis-ci.org/xxczaki/password-encrypt)
-
+[![Join Us!](https://gitter.im/akepinski-dev/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)    
 <b>Password Encrypt</b>
 
 A computer program developed in Visual Studio by akepinski dev. Main Features:
