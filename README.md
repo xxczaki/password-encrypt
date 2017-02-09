@@ -1,7 +1,6 @@
 [![Build Status](https://travis-ci.org/xxczaki/password-encrypt.svg?branch=master)](https://travis-ci.org/xxczaki/password-encrypt)
 
-<b>Password Encrypt
-
+<b>Password Encrypt</b>
 A computer program developed in Visual Studio by akepinski dev. Main Features:
 
 ✔ Beautiful Material Design.
@@ -12,12 +11,11 @@ A computer program developed in Visual Studio by akepinski dev. Main Features:
 
 More features coming soon!
 
-<b>Support our work!
-
+<b>Support our work!</b>
 Donorbox.org/akepinski
 
 Paypal.me/akepinski
 
 You can also donate by Bitcoin! Wallet adress:
 
-<mark>35mj6RASRx3WCosndbuKrMEVMDBVEFisXj
+<mark>35mj6RASRx3WCosndbuKrMEVMDBVEFisXj</mark>
