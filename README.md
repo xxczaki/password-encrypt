@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/xxczaki/password-encrypt.svg?branch=master)](https://travis-ci.org/xxczaki/password-encrypt)
+[![](https://img.shields.io/badge/GITTER-join%20chat-green.svg)](https://gitter.im/akepinski-dev)
 
 <b>Password Encrypt</b>
 
