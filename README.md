@@ -2,24 +2,38 @@
 [![](https://img.shields.io/badge/GITTER-join%20chat-green.svg)](https://gitter.im/akepinski-dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<b>Password Encrypt</b>
+# Password Encryptor
 
-A computer program developed in Visual Studio by akepinski dev. Main Features:
+A computer program developed in Visual Studio by akepinski dev.
+
+## Main Features
 
 ✔ Beautiful Material Design.
 
 ✔ Light - Less than 4 mb of files.
 
-✔ Beautiful animated buttons (also based on Google Material Design)
+✔ Beautiful animated buttons (also based on Google Material Design).
 
-More features coming soon!
+### Prerequisites
 
-<b>Support our work!</b>
+To open project you need:
 
-Donorbox.org/akepinski
+✔ Visual Studio 2015+
 
-Paypal.me/akepinski
+✔ This repository :)
+ 
+## Authors
 
-You can also donate by Bitcoin! Wallet adress:
+* **Anthony Kepinski**  
+ and akepinski dev. Team! Check our site: www.akepinski.pl
 
-<mark>35mj6RASRx3WCosndbuKrMEVMDBVEFisXj</mark>
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Support our work
+donorbox.com/akepinski
+paypal.me/akepinski
+YOU CAN ALSO GIVE -STAR-! IT'S FREE FOREVER!
+
+ 
