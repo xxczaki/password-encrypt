@@ -36,7 +36,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Support our work
 
-donorbox.com/akepinski
+donorbox.org/akepinski
 
 paypal.me/akepinski
 
