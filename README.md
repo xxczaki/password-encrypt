@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/xxczaki/password-encrypt.svg?branch=master)](https://travis-ci.org/xxczaki/password-encrypt)
 [![](https://img.shields.io/badge/GITTER-join%20chat-green.svg)](https://gitter.im/akepinski-dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
 # Password Encryptor
 
