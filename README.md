@@ -25,15 +25,21 @@ To open project you need:
 ## Authors
 
 * **Anthony Kepinski**  
- and akepinski dev. Team! Check our site: www.akepinski.pl
+
+* **akepinski dev. Team**
+
+Check our site: www.akepinski.pl
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Support our work
+
 donorbox.com/akepinski
+
 paypal.me/akepinski
+
 YOU CAN ALSO GIVE -STAR-! IT'S FREE FOREVER!
 
  
